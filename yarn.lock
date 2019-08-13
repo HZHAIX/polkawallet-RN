@@ -846,14 +846,6 @@
   resolved "https://registry.npmjs.org/@polkadot/wasm-crypto/-/wasm-crypto-0.10.1.tgz#284e57e102050cca1586b7b1f008f64224147eb4"
   integrity sha512-hI3OYftMGJkDetTe1DeU9aH4euk6WVmAMFszslNrCxHMFFkemEgACykwpyuOdCjv24VZP/cMsrVskKix1GzSYQ==
 
-<<<<<<< HEAD
-"@polkadot/wasm-crypto@^0.13.0-beta.4":
-  version "0.13.1"
-  resolved "https://registry.npmjs.org/@polkadot/wasm-crypto/-/wasm-crypto-0.13.1.tgz#602305b2ca86fc320a35ce820835e0e2dd9e646e"
-  integrity sha512-24a63FynhyBHEGxqoDMZHAcaSxJqnjBPnEcmXXYCN2lI7b4iKaJKF2t+/FUmY7XTST+xNgFTJZ7A/o8jjgC/mA==
-
-=======
->>>>>>> master
 "@react-native-community/cli@^1.2.1":
   version "1.11.0"
   resolved "https://registry.npmjs.org/@react-native-community/cli/-/cli-1.11.0.tgz#4331b0e5f164ed468621994aacba3420209e29eb"
